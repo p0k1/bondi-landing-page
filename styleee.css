@@ -774,7 +774,7 @@ p {
 .newsletter-button {
     background-color: #19283f;
     color: #ffc501;
-    padding: 17px 40    px;
+    padding: 17px 40px;
     border: none;
     border-radius: 25px;
 }
@@ -797,4 +797,15 @@ p {
     max-width: 1170px;
 }
 
+
+.basement-button {
+    color: #ffffff;
+    border: none;
+    border-radius: 25px;
+    font-size: 13px;
+    font-weight: 400;
+    line-height: 27px;
+    padding: 15px 125px;
+    background-color: #ff3150;
+}
 
